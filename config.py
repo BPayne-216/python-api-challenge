@@ -1,2 +1,2 @@
-weather_api_key = "c44e56c50657647ac46987038fc56e81"
-vacation_api_key = "AIzaSyDxDulLM2x-vpUHksnMgy7mmMqEHWUEbZY"
+weather_api_key = "ENTER YOUR KEY HERE"
+vacation_api_key = "ENTER YOUR KEY HERE"
